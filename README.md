@@ -1,7 +1,7 @@
 # 🌍 TravelHub ✈️  
 *A modern travel website to discover destinations and plan unforgettable trips.*  
 
-![TravelHub Screenshot](images/Screenshot (432).png)  
+![TravelHub Screenshot](images/Screenshot(432).png)  
 
 ## 🚀 About The Project  
 TravelHub is a sleek and responsive travel website designed to inspire wanderlust. It showcases stunning destinations and packages for travelers. Built using **HTML**, **CSS**, and **Tailwind CSS**, this site is perfect for users looking for a clean and visually appealing travel platform.  
@@ -17,3 +17,4 @@ TravelHub is a sleek and responsive travel website designed to inspire wanderlus
 ✅ Smooth navigation bar with links  
 ✅ Clean typography and layout  
 
+## 📂 Project Structure  
