@@ -16,7 +16,8 @@ TravelHub solves the problem of finding and booking travel packages manually. Us
 > 💡 User Interface.
 
 <p align="center">
-  <img src="assets/travelhub-screenshot.png" width="600" alt="TravelHub Screenshot" />
+  <img src="images
+/Screenshot (432).png" width="600" alt="TravelHub Screenshot" />
 </p>
 
 ---
@@ -42,15 +43,6 @@ TravelHub solves the problem of finding and booking travel packages manually. Us
 | 📱 Responsive Design | Ensures usability on all devices          |
 | 🌐 Font Awesome      | Social media and icon support             |
 
----
 
-## 🛠️ How to Run
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/travelhub.git
-cd travelhub
-
-# 2. Open the index.html in your browser
-# Simply double-click index.html or use a local server like Live Server in VS Code
 
