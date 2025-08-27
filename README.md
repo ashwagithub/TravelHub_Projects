@@ -16,7 +16,7 @@ TravelHub solves the problem of finding and booking travel packages manually. Us
 > 💡 User Interface.
 
 <p align="center">
-  <img src="images/Screenshot (432).png" width="600" alt="TravelHub Screenshot" />
+  <img src="images/TravelHub.png" width="600" alt="TravelHub Screenshot" />
 </p>
 
 ---
